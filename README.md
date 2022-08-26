@@ -4,9 +4,9 @@
 
 ## 其他地址
 
-- Github：[https://github.com/Milo980412/NOTE_JS](https://github.com/Milo980412/NOTE_JS)
+- Github：[https://github.com/wcmsues/NOTE_JS](https://github.com/wcmsues/NOTE_JS)
 - 语雀：[https://www.yuque.com/u26476221/my897g](https://www.yuque.com/u26476221/my897g)
-- Milo前端日记：[JavaScript入门学习](https://miloreact.github.io/pages/javascript/start.html)
+- Milo前端日记：[JavaScript入门学习](https://wcmsues.github.io/vuepress-frontend/pages/javascript/start.html)
 
 ## 目录
 
