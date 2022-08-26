@@ -6,7 +6,7 @@
 
 - Github：[https://github.com/wcmsues/NOTE_JS](https://github.com/wcmsues/NOTE_JS)
 - 语雀：[https://www.yuque.com/u26476221/my897g](https://www.yuque.com/u26476221/my897g)
-- Milo前端日记：[JavaScript入门学习](https://wcmsues.github.io/vuepress-frontend/pages/javascript/start.html)
+- Milo前端日记：[JavaScript入门学习](https://wcmsues.github.io/vuepress-frontend/pages/js_note/start.html)
 
 ## 目录
 
